@@ -1,65 +1,65 @@
-,Indicator Name,Indicator Code
-0,Agricultural land (sq. km),AG.LND.AGRI.K2
-1,Agricultural land (% of land area),AG.LND.AGRI.ZS
-2,Arable land (% of land area),AG.LND.ARBL.ZS
-3,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2
-4,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS
-5,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2
-6,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS
-7,Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS
-8,Forest area (sq. km),AG.LND.FRST.K2
-9,Forest area (% of land area),AG.LND.FRST.ZS
-10,Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS
-11,Average precipitation in depth (mm per year),AG.LND.PRCP.MM
-12,Cereal yield (kg per hectare),AG.YLD.CREL.KG
-13,"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS
-14,Access to electricity (% of population),EG.ELC.ACCS.ZS
-15,Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS
-16,CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS
-17,CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT
-18,CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS
-19,CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD
-20,CO2 emissions (kt),EN.ATM.CO2E.KT
-21,CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT
-22,CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS
-23,CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC
-24,CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD
-25,CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD
-26,CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT
-27,CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS
-28,"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE
-29,Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG
-30,Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE
-31,Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG
-32,HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE
-33,Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE
-34,Methane emissions (% change from 1990),EN.ATM.METH.ZG
-35,Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE
-36,Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG
-37,PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE
-38,SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE
-39,Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ
-40,GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE
-41,"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS
-42,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS
-43,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS
-44,Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS
-45,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS
-46,"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3
-47,"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS
-48,Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS
-49,Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS
-50,Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS
-51,Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ
-52,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS
-53,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS
-54,"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS
-55,"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT
-56,"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS
-57,Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY
-58,Population growth (annual %),SP.POP.GROW
-59,"Population, total",SP.POP.TOTL
-60,Urban population growth (annual %),SP.URB.GROW
-61,Urban population,SP.URB.TOTL
-62,Urban population (% of total population),SP.URB.TOTL.IN.ZS
-63,"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS
+Indicator Name,Indicator Code
+Agricultural land (sq. km),AG.LND.AGRI.K2
+Agricultural land (% of land area),AG.LND.AGRI.ZS
+Arable land (% of land area),AG.LND.ARBL.ZS
+Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2
+Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS
+Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2
+Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS
+Land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.ZS
+Forest area (sq. km),AG.LND.FRST.K2
+Forest area (% of land area),AG.LND.FRST.ZS
+Agricultural irrigated land (% of total agricultural land),AG.LND.IRIG.AG.ZS
+Average precipitation in depth (mm per year),AG.LND.PRCP.MM
+Cereal yield (kg per hectare),AG.YLD.CREL.KG
+"Foreign direct investment, net inflows (% of GDP)",BX.KLT.DINV.WD.GD.ZS
+Access to electricity (% of population),EG.ELC.ACCS.ZS
+Renewable energy consumption (% of total final energy consumption),EG.FEC.RNEW.ZS
+CO2 intensity (kg per kg of oil equivalent energy use),EN.ATM.CO2E.EG.ZS
+CO2 emissions from gaseous fuel consumption (kt),EN.ATM.CO2E.GF.KT
+CO2 emissions from gaseous fuel consumption (% of total),EN.ATM.CO2E.GF.ZS
+CO2 emissions (kg per 2015 US$ of GDP),EN.ATM.CO2E.KD.GD
+CO2 emissions (kt),EN.ATM.CO2E.KT
+CO2 emissions from liquid fuel consumption (kt),EN.ATM.CO2E.LF.KT
+CO2 emissions from liquid fuel consumption (% of total),EN.ATM.CO2E.LF.ZS
+CO2 emissions (metric tons per capita),EN.ATM.CO2E.PC
+CO2 emissions (kg per PPP $ of GDP),EN.ATM.CO2E.PP.GD
+CO2 emissions (kg per 2017 PPP $ of GDP),EN.ATM.CO2E.PP.GD.KD
+CO2 emissions from solid fuel consumption (kt),EN.ATM.CO2E.SF.KT
+CO2 emissions from solid fuel consumption (% of total),EN.ATM.CO2E.SF.ZS
+"Other greenhouse gas emissions, HFC, PFC and SF6 (thousand metric tons of CO2 equivalent)",EN.ATM.GHGO.KT.CE
+Other greenhouse gas emissions (% change from 1990),EN.ATM.GHGO.ZG
+Total greenhouse gas emissions (kt of CO2 equivalent),EN.ATM.GHGT.KT.CE
+Total greenhouse gas emissions (% change from 1990),EN.ATM.GHGT.ZG
+HFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.HFCG.KT.CE
+Methane emissions (kt of CO2 equivalent),EN.ATM.METH.KT.CE
+Methane emissions (% change from 1990),EN.ATM.METH.ZG
+Nitrous oxide emissions (thousand metric tons of CO2 equivalent),EN.ATM.NOXE.KT.CE
+Nitrous oxide emissions (% change from 1990),EN.ATM.NOXE.ZG
+PFC gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.PFCG.KT.CE
+SF6 gas emissions (thousand metric tons of CO2 equivalent),EN.ATM.SF6G.KT.CE
+Disaster risk reduction progress score (1-5 scale; 5=best),EN.CLC.DRSK.XQ
+GHG net emissions/removals by LUCF (Mt of CO2 equivalent),EN.CLC.GHGR.MT.CE
+"Droughts, floods, extreme temperatures (% of population, average 1990-2009)",EN.CLC.MDAT.ZS
+Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS
+Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS
+Population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.ZS
+Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS
+"Annual freshwater withdrawals, total (billion cubic meters)",ER.H2O.FWTL.K3
+"Annual freshwater withdrawals, total (% of internal resources)",ER.H2O.FWTL.ZS
+Terrestrial protected areas (% of total land area),ER.LND.PTLD.ZS
+Marine protected areas (% of territorial waters),ER.MRN.PTMR.ZS
+Terrestrial and marine protected areas (% of total territorial area),ER.PTD.TOTL.ZS
+Ease of doing business rank (1=most business-friendly regulations),IC.BUS.EASE.XQ
+"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS
+"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS
+"Primary completion rate, total (% of relevant age group)",SE.PRM.CMPT.ZS
+"Mortality rate, under-5 (per 1,000 live births)",SH.DYN.MORT
+"Prevalence of underweight, weight for age (% of children under 5)",SH.STA.MALN.ZS
+Poverty headcount ratio at $2.15 a day (2017 PPP) (% of population),SI.POV.DDAY
+Population growth (annual %),SP.POP.GROW
+"Population, total",SP.POP.TOTL
+Urban population growth (annual %),SP.URB.GROW
+Urban population,SP.URB.TOTL
+Urban population (% of total population),SP.URB.TOTL.IN.ZS
+"Roads, paved (% of total roads)",IS.ROD.PAVE.ZS
